@@ -10,7 +10,7 @@ const Register = () => {
       </div>
 
       {/* Right Form */}
-      <div className="w-full md:w-1/2 flex items-center justify-center bg-blue-300 p-10">
+      <div className="w-full md:w-1/2 flex items-center justify-center bg-blue-30cd0 p-10">
         <div className="w-full max-w-lg">
           <h2 className="text-3xl font-bold mb-6 text-gray-800">Registration</h2>
           <form className="space-y-4">

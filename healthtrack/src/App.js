@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
-import Register from './pages/Register';
+import Login from './pages/Login';
 
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <Register />
+        <Login/>
       </div>
     </BrowserRouter>
   );
