@@ -1,7 +1,7 @@
 // src/pages/VitalSigns.jsx
 import React from 'react';
 // import { Link, useLocation } from 'react-router-dom'; // Removed unused imports
-import Navbar from '../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
+import Navbar from '../../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
 
 const VitalSigns = () => {
   // const location = useLocation(); // Removed unused variable and its hook call

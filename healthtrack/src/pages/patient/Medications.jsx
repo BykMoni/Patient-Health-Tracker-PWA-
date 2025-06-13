@@ -1,6 +1,6 @@
 // src/pages/Medications.jsx
 import React from 'react';
-import Navbar from '../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
+import Navbar from '../../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
 
 const Medications = () => {
   return (

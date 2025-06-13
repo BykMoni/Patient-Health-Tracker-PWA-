@@ -1,7 +1,7 @@
 // src/pages/PatientDashboard.jsx
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import Navbar from '../components/Navbar'; // Assuming Navbar.jsx is in src/components/
+import Navbar from '../../components/Navbar'; // Assuming Navbar.jsx is in src/components/
 
 const PatientDashboard = () => {
   const [painLevel, setPainLevel] = useState(5); // Default pain level

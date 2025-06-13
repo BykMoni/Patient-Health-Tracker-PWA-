@@ -1,7 +1,7 @@
 // src/components/Navbar.jsx
 import React, { useState } from 'react'; // Import useState
 import { Link, useLocation } from 'react-router-dom';
-import EmergencyModal from './EmergencyModal'; // Import the EmergencyModal component
+import EmergencyModal from '../pages/patient/EmergencyModal'; // Import the EmergencyModal component
 
 const Navbar = () => {
   const location = useLocation();

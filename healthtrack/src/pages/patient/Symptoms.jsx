@@ -1,6 +1,6 @@
 // src/pages/Symptoms.jsx
 import React, { useState } from 'react';
-import Navbar from './Navbar'; // Adjust path if your Navbar.jsx is elsewhere
+import Navbar from '../../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
 
 const Symptoms = () => {
   const [painLevel, setPainLevel] = useState(3); // Default pain level based on image

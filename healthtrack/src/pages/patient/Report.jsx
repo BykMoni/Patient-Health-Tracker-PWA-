@@ -1,7 +1,7 @@
  // src/pages/HealthReport.jsx
 import React from 'react';
 import {} from 'react-router-dom';
-import Navbar from '../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
+import Navbar from '../../components/Navbar'; // Adjust path if your Navbar.jsx is elsewhere
 
 const HealthReport = () => {
   return (
